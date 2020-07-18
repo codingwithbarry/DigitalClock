@@ -1,5 +1,5 @@
 # DigitalClock
-Digital clock project in Python using PyGame (3-part series)
+Assets for digital clock project in Python using PyGame (3-part series)
 
 # Licensing Note
 All ***PNG*** files in the ***resources/images folder*** are licensed as **CC0** and may be used for personal or commercial purposes, free of charge. 
