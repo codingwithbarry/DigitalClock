@@ -12,4 +12,4 @@ CodingWithBarry: https://www.youtube.com/channel/UCHZ_RD6MWXSafjhGgbJs-2A
 The videos for this tutorial series can be found at:
 * Part 1 - https://youtu.be/Cv63j4TCGc8
 * Part 2 - https://youtu.be/LW9YnuZy8Nc
-* Part 3 - TBD
+* Part 3 - https://youtu.be/svAiFvDKiZE
